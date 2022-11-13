@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
